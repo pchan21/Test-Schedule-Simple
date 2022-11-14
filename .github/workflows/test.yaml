@@ -23,4 +23,6 @@ jobs:
           
           pip install -r requirements.txt
           python test.py
+          git commit -m 'Ataachce'
+          git push origin main
 
